@@ -1,0 +1,6 @@
+{
+  "root": "apps/fe-core",
+  "sourceRoot": "apps/fe-core",
+  "projectType": "application",
+  "tags": []
+}
